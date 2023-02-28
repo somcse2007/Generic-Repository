@@ -1,0 +1,12 @@
+C:\Project Design\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Project Design\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Project Design\Core\bin\Debug\Core.dll.config
+C:\Project Design\Core\bin\Debug\Core.dll
+C:\Project Design\Core\bin\Debug\Core.pdb
+C:\Project Design\Core\bin\Debug\EntityFramework.dll
+C:\Project Design\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Project Design\Core\bin\Debug\EntityFramework.xml
+C:\Project Design\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Project Design\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Project Design\Core\obj\Debug\Core.dll
+C:\Project Design\Core\obj\Debug\Core.pdb
