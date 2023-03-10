@@ -16,11 +16,10 @@ namespace Api.Controllers
 
         private readonly IStudentService _studentService;
 
-        
+        //Test
         public StudentController(IStudentService studentService)
         {
             _studentService = studentService;
-
         }
         [HttpPost]
         [Route(nameof(InsertStudents))]
