@@ -17,6 +17,7 @@ namespace Api.Controllers
         private readonly IStudentService _studentService;
 
         //Test
+        //QRCODE :- https://www.youtube.com/watch?v=paWr6XJ2p3A
         public StudentController(IStudentService studentService)
         {
             _studentService = studentService;
